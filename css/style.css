@@ -1,0 +1,57 @@
+.logo{
+	height: 100px;
+	width: 100px;
+	float: right: 50%;
+	padding: right:30px;
+}
+li{display: inline;
+}
+
+.padding{padding-top: 20px;}
+
+a{text-decoration: none;
+  color: grey;
+}
+
+.border-menu{
+	display: inline;
+	border-right: grey 1px solid;
+	margin: 12px;
+	padding-left: 0px;
+	padding-right: 15px;
+}
+.planta{
+	background-image: url("../img/semilla.jpg"); 
+	height: 250px;
+	width: 100%;
+}
+.img-redonda{
+	height: 100px;
+	width:100px;
+}
+.top-margin{
+	margin-top: 20px;
+}
+.metodo{
+	background-image: url("../img/metodo.jpg"); 
+	width: 100%;
+	height:25%;
+}
+.text{
+	background-color:#ECEADA; 
+
+}
+.fondo-verde{
+	background-image: url("../img/fondo.jpg"); 
+	width: 100%;
+	height: 318px;
+}
+.cuadricula{
+	padding: 20px;
+	margin:10px;
+}
+.fotos{
+	height: 250px;
+	width:350px;
+	padding-left: 20px;
+}
